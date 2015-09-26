@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4771137A-DACC-45B3-B179-4C0D5FF4936B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KM_LV_Task2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>677FBBD2036A81A99DE0A0AB0842BB983C9780A5</key>
+		<string>https://github.com/MargoshaDaisy/Task2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KM_LV_Task2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>677FBBD2036A81A99DE0A0AB0842BB983C9780A5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MargoshaDaisy/Task2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>677FBBD2036A81A99DE0A0AB0842BB983C9780A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>677FBBD2036A81A99DE0A0AB0842BB983C9780A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KM_LV_Task2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
